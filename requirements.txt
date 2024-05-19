@@ -1,0 +1,15 @@
+peft
+transformers
+numpy
+aiogram
+tensorflow
+deep-translator
+soundfile
+keras
+tf-keras
+torch
+pandas
+huggingsound
+accelerate
+bitsandbytes
+sentencepiece
