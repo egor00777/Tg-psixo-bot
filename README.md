@@ -24,4 +24,16 @@ _______________________________________
 
 *If he can’t accurately determine whether a person is sick, he produces a funny GIF
 ___________________________________________________
-# 
+# How to install this bot on your laptop or PC
+
+first step: installing dependencies
+```
+& git clone https://github.com/egor00777/Tg-psixo-bot
+& pip install -r requirements.txt
+```
+
+second step: running the "main" file
+```
+& cd <FILE PATH>
+& python main.py
+```
