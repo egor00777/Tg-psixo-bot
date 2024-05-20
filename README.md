@@ -19,5 +19,7 @@ ________________________________________________________________________________
 _______________________________________
 # Several features of the project
 *Support for voice messages and post-processing
+
 *Works for Saiga-7b-lora and, with the help of prompt engineering, responds like a real psychotherapist
+
 *If he can’t accurately determine whether a person is sick, he produces a funny GIF
