@@ -41,7 +41,7 @@ PASSWORD = 'HHSSEE'
 
 bot = None
 
-BOT_TOKEN = '7086911916:AAEW3MYi3LXCcNK6y7Iqr4CUbxZwfFptj-w'
+BOT_TOKEN = ''
 
 dp = Dispatcher()
 
