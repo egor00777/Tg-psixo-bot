@@ -12,5 +12,12 @@ ________________________________________________________________________________
    c) Evaluation of ChatGPT for NLP (https://arxiv.org/abs/2303.15727)
    
 3) Datasets used:
-   a) binnar_rus_mental.csv - 
-4) 
+
+   a) binnar_rus_mental.csv - Dataset for binary classification, thanks to it the assessment of “ilness” or “not illness” is made
+   b) new_data_class.csv - A dataset for multi-class classification, thanks to which one can choose one of 6 classes of severe mental illnesses
+   
+_______________________________________
+# Several features of the project
+*Support for voice messages and post-processing
+*Works for Saiga-7b-lora and, with the help of prompt engineering, responds like a real psychotherapist
+*If he can’t accurately determine whether a person is sick, he produces a funny GIF
