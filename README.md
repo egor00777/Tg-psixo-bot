@@ -26,13 +26,13 @@ _______________________________________
 ___________________________________________________
 # How to install this bot on your laptop or PC
 
-first step: installing dependencies
+First step: installing dependencies
 ```
 & git clone https://github.com/egor00777/Tg-psixo-bot
 & pip install -r requirements.txt
 ```
 
-second step: running the "main" file
+Second step: running the "main" file
 ```
 & cd <FILE PATH>
 & python main.py
